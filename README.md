@@ -26,6 +26,7 @@ Backend:
 • Gemini 
 
 Screenshots
+ ![Image](https://github.com/user-attachments/assets/38bbae8c-5c46-44d5-8da2-b83f198cdf4b)
  
  
 
